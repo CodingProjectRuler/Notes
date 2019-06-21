@@ -1,0 +1,7 @@
+github@team->fork->github@self->clone->localhost
+
+localhost->push->github@self->pull request->github@team
+
+github@team->并入self当前开发分支(others modified when self working)->github@me->正式进入team主分支->github@team->完成
+
+另外要保持github@me和@team同步更新
