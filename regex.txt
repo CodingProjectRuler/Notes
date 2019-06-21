@@ -1,0 +1,4 @@
+String regexIncludeWord = ".*[a-zA-z].*";   //A char that contains a letter
+String regexIncludeWord1 = "[a-zA-z].*";    //A char taht start with a letter
+String regexIncludeWord2 = ".*[a-zA-z]";    //A char that end with a letter
+String regexIncludeWord3 = "[a-zA-z]";      //A char that that is a letter
