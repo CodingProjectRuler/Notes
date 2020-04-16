@@ -1,0 +1,4 @@
+打开Finder，按command+shift+G，输入一下目录：
+~/资源库/Application Support/com.bohemiancoding.sketch3/Plugins
+删除目录下的插件即可
+
