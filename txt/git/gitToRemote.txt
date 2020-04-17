@@ -1,0 +1,6 @@
+设置远程URL:
+	git remote add origin git@github.com:[Issac-Q/Notes.git]	//建立本地仓库和远程仓库的关联
+	git pull --rebase origin master		//拉取远程master代码到本地，rebase跟merge的区别是不产生合并的新提交记录
+        git branch -set-upstream-to=origin/master	//建立本地分支和远程分支的关联
+	git push -u origin master	//提交到远程仓库
+
